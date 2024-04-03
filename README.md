@@ -1,6 +1,6 @@
 **RFM-Customer-Segmentation-Analysis**
 
-This project focuses on identifying the Strength and weakness as well as the opportunities and challenges of an automobile company by conducting an overall sales analysis and RFM analysis to find relevant customer segments. The dataset contains information related to the sold automobile product line, quantity, price, order date, location, customer name etc. of an automobile company.
+This project focuses on identifying the Strengths and weaknesses of an automobile company by conducting an overall sales analysis and RFM analysis to find relevant customer segments. The dataset contains information related to the sold automobile product line, quantity, price, order date, location, customer name etc. of an automobile company.
 
 **Process summary**
 1.  Used SQL for Data Cleaning, Data Engineering and EDA (RFM analysis) of a 2700+ rows automobile dataset. 
